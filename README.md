@@ -1,3 +1,2 @@
 # sqlite-proxy-cordova
 Simple sqlite proxy for open app in apache in browser
-Dont need to `cordova run browser`, just copy www folder in apache webroot and open it in http://localhost in browser and change your cordova app ...
